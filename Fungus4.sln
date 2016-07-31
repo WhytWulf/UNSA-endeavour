@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fungus4.CSharp", "Fungus4.CSharp.csproj", "{71E2F0F6-8EA9-CD53-158E-B7EC90EB22D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fungus4.CSharp.Editor", "Fungus4.CSharp.Editor.csproj", "{A0D31FFB-F37A-B484-2A06-C3D203C1B9D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71E2F0F6-8EA9-CD53-158E-B7EC90EB22D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E2F0F6-8EA9-CD53-158E-B7EC90EB22D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E2F0F6-8EA9-CD53-158E-B7EC90EB22D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E2F0F6-8EA9-CD53-158E-B7EC90EB22D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D31FFB-F37A-B484-2A06-C3D203C1B9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D31FFB-F37A-B484-2A06-C3D203C1B9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D31FFB-F37A-B484-2A06-C3D203C1B9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D31FFB-F37A-B484-2A06-C3D203C1B9D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

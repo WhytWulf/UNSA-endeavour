@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 157192c4af0fb0c4bb3b0dcb922fae67
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Skin: {fileID: 11400000, guid: 01594a83121c6c847809a5c8330b0d1e, type: 2}
+  - Background: {fileID: 2800000, guid: 554a8564914d31644b7fa869ece23de7, type: 3}
+  - AnimationSprite: {fileID: 2800000, guid: f370b0a392cabe94ca1ee497d864908f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

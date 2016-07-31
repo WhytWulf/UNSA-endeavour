@@ -1,0 +1,127 @@
+#SAY.IntroFLOWCHART.99.
+This interactive game is still a big WiP. Expect a large number of changes, a alot more content. 
+
+Hold down F1 to get a psuedo help screen.
+
+Basic to do list- (FINISH THE INTRO)
+more narration (and better word flow)
+tweak UI
+finish character creation (intro)
+add personal logs to flesh out who you are.
+
+#SAY.IntroFLOWCHART.15.
+The fresh air, the sounds of the forest, it  makes you feel so alive.
+
+#SAY.IntroFLOWCHART.16.
+You stop at a small brooke, with deep green moss covered rocks, gnarled trees arch over the water like overprotective parents.
+
+#MENU.IntroFLOWCHART.70
+You pull out your camera
+
+#MENU.IntroFLOWCHART.71
+You pull out your journal.
+
+#SAY.IntroFLOWCHART.48.
+You are dreaming, though this dream feels different, almost as if you can re-make yourself from the depths of your personality to your surface appearance.
+
+You don’t believe you have ever had a dream this deep or this lucid.
+
+#MENU.IntroFLOWCHART.37
+Focus on a forest.
+
+#MENU.IntroFLOWCHART.39
+Recall your High School days.
+
+#SAY.IntroFLOWCHART.75.Player
+The
+
+#SAY.IntroFLOWCHART.32.
+You are in a forest,
+
+#MENU.IntroFLOWCHART.33
+running to keep fit.
+
+#MENU.IntroFLOWCHART.34
+for creative inspiration.
+
+#MENU.IntroFLOWCHART.35
+hunting a wild animal
+
+#MENU.IntroFLOWCHART.36
+running from someone or something.
+
+#SAY.IntroFLOWCHART.40.
+Back at high school, you remember it as if were yesterday.
+We were heavily involved with,
+
+#MENU.IntroFLOWCHART.42
+football as the star quaterback
+
+#MENU.IntroFLOWCHART.43
+head of the computer science room.
+
+#SAY.IntroFLOWCHART.46.
+Suddenly you hear a strange screeching noise. Your first instinct is that it’s an alarm. 
+Your hackles rise. How odd, and very out of place this alien sound, in such a peaceful setting.You see a sudden flap of wings above .A bird!
+
+#SAY.IntroFLOWCHART.97.
+You move quickly, following the sound of the bird, looking up between branches, and not paying much attention to your footing.
+
+Suddenly you stumble and fall over, landing heavily on your chest winding yourself.
+
+#SAY.IntroFLOWCHART.65.
+Stunned, and gasping for air your vision fades.
+
+#SAY.IntroFLOWCHART.57.
+You feel consciousness return and you are immediately assaulted with the sound of an alarm annoying enough to penetrate your dreams. {w=2}Your vision blurs momentarily and panicked thought crosses your mind, 'you can't breath'.
+
+#SAY.IntroFLOWCHART.105.
+You try again still nothing.
+
+#SAY.IntroFLOWCHART.58.
+With panic setting in and needing to breathe out you look around.  Finding yourself inside of a framed glass cylinder. 
+The inside walls and glass are slick with condensation, obscuring the details of what lays beyond.
+
+#MENU.IntroFLOWCHART.61
+Peer through glass.
+
+#MENU.IntroFLOWCHART.69
+Examine inside of cylinder
+
+#SAY.IntroFLOWCHART.68.
+You have unfortunately run out of air. With no oxygen and a very high concentration of carbon dioxide your fate was sealed.
+
+#SAY.IntroFLOWCHART.83.
+You raise your hand up and wipe the interior of the glass, allowing you a better view of the room.
+
+#SAY.IntroFLOWCHART.84.
+The room beyond is a small self contained room, with office space, computer terminal, chair.
+What strikes you most however, is seeing various loose objects drifting lazily around the room.Your scattered mind struggles to take this in.
+
+#SAY.IntroFLOWCHART.87.
+With the limited space available you manage to survey the space around you.
+
+#SAY.IntroFLOWCHART.88.
+As your eyes work their way down. you appear to be wearing a tight jumpsuit, a large belt or band is across your waist.
+
+#SAY.IntroFLOWCHART.89.
+You notice a button at waist height, it is flashing and you can  make out some letters "Em r    y O e  ide"
+
+#SAY.IntroFLOWCHART.92.
+With your remaining strength you hammer the button. 
+
+For moment nothing appears to have happened, then you hear a click and a whir of an electical motor spinning up. 
+A breeze of air blows across your face as the hermetic seal on the cylinder is broken, while the door continues to swing up and away from you.
+
+#SAY.IntroFLOWCHART.93.
+You breath in a lung full of air, not caring if it is safe. Your lungs appreciate the effort, and reward you with fit of coughing.
+
+#SAY.IntroFLOWCHART.94.
+With your blood carrying fresh oxygen, the fog incasing your brain is starting to lift and you realise you have no idea where you are, or who you are.
+
+#CHARACTER.Player
+Player
+
+#CHARACTER.Character Name
+Character Name
+
